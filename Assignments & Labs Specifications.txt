@@ -1,0 +1,15 @@
+Assignments Specifications:
+0 - https://www.cs.bgu.ac.il/~caspl202/Assignments/Assignment_0
+1 - https://www.cs.bgu.ac.il/~caspl202/Assignments/Assignment_1
+2 - https://www.cs.bgu.ac.il/~caspl202/Assignments/Assignment_2
+3 - https://www.cs.bgu.ac.il/~caspl202/Assignments/Assignment_3
+
+Labs Specifications:
+1 - https://www.cs.bgu.ac.il/~caspl202/Lab1/Tasks
+2 - https://www.cs.bgu.ac.il/~caspl202/Lab2/Tasks
+3 - https://www.cs.bgu.ac.il/~caspl202/Lab3/Tasks
+4 - https://www.cs.bgu.ac.il/~caspl202/Lab4/Tasks
+5 - https://www.cs.bgu.ac.il/~caspl202/Lab5/Tasks
+6 - https://www.cs.bgu.ac.il/~caspl202/Lab6/Tasks
+7 - https://www.cs.bgu.ac.il/~caspl202/Lab7/Tasks
+8 - https://www.cs.bgu.ac.il/~caspl202/Lab8/Tasks
